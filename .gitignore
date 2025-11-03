@@ -151,7 +151,7 @@ wandb/
 tensorboard/
 results/
 outputs/
-
+vlm3D_work_dir/models
 # Configuration files with sensitive data
 config/secrets.yaml
 config/api_keys.yaml

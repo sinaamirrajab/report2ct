@@ -1,0 +1,11 @@
+{
+    "data_base_dir": "./vlm3D_work_dir/sim_dataroot",
+    "embedding_base_dir": "./vlm3D_work_dir/embeddings",
+    "existing_ckpt_filepath": "./vlm3D_work_dir/models/diff_unet_ckpt_FI_2560_multi_best.pt",
+    "json_data_list": "./vlm3D_work_dir/sim_datalist.json",
+    "model_dir": "./vlm3D_work_dir/models",
+    "model_filename": "diff_unet_ckpt_FI_2560_multi.pt",
+    "output_dir": "./vlm3D_work_dir/predictions",
+    "output_prefix": "unet_3d",
+    "trained_autoencoder_path": "./vlm3D_work_dir/models/autoencoder_epoch273.pt"
+}
