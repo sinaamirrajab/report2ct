@@ -101,9 +101,3 @@ If you use Report2CT in your research, please cite our work:
     note={Winner of MICCAI 2025 VLM3D Challenge - Task 4}
 }
 ```
-
-## Acknowledgments
-
-We thank the organizers of the MICCAI 2025 VLM3D Challenge and the contributors to the CT-RATE dataset. This work was supported by the GROW Research Institute for Oncology and Reproduction at Maastricht University.
-
----
