@@ -1,5 +1,5 @@
 # creating image embeddings using the pretrained MAISI VAE GAN model
-python -m src.maisi.scripts.vlm3d_image_embedding.py 
+python -m src.maisi.scripts.vlm3d_image_embedding 
 
 # training the report conditional diffusion model for report to CT synthesis
 torchrun --nproc_per_node=2 -m src.maisi.scripts.diff_model_train_vlm3D_2560_multi_text \
